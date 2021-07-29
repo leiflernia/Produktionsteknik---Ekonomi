@@ -1,0 +1,9 @@
+# Visualisering i verkstaden
+
+I en funktionell verkstad med svarv- fräs, borravdelningar kan det finnas flera maskiner som använder samma bearbetningsverktyg, eftersom det oftast är samma verktygsfästen på maskinerna. Man kan då använda olika färger på bearbetningsverktygen för att binda dem till en maskin. Operatören vet då att verktygen finns där och behöver inte gå omkring i verkstaden och leta efter dem. Verktygen kan då hänga på ett verktygsställ i anknytning till maskinen, med en enkel bild målad på stället, en för varje verktyg.
+
+Verktyg som används mycket sällan kan ha ett eget verktygsställ centralt i verkstaden, så att operatörerna vet var de finns när de behövs. På verktygsstället ska det finnas en penna och en lista över ställets verktyg som operatören kryssar för varje gång ett verktyg behövs och ex. en gång/ månad utvärdera hur ofta verktygen används och om de kanske ska vara på operatörens verktygsställ istället om de används ofta, eller tas bort om de inte alls används.
+
+I övrigt ska det inte finnas överflödiga verktyg vid maskinerna, om en nyckel passar på flera ställen räcker det med en nyckel per operatör, för att få en smidig hantering vid verktygsstället. Detta förfarande minskar på slöseriet, minskar variationen och förbättrar produktiviteten, genom att operatören lättare kan välja sitt verktyg bland ett fåtal verktyg som minskar tiden för operationen.
+
+Minst en gång per vecka ska verktygsställen kontrolleras och kompletteras, och vara en punkt på listan för operatörens veckounderhåll av sin arbetsplats. Det är viktigt att detta standardiseras och med samma rutiner vid varje bearbetningsstation i verkstan. Om en operatör blir sjuk ska en annan operatör kunna rycka in och veta var verktygen finns.
